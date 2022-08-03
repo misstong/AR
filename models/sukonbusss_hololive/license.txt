@@ -1,0 +1,11 @@
+Model Information:
+* title:	SukonBusss_Hololive
+* source:	https://sketchfab.com/3d-models/sukonbusss-hololive-8be58567b7764aed9e0401e360ab4140
+* author:	Armored Interactive (https://sketchfab.com/ychiang6)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SukonBusss_Hololive" (https://sketchfab.com/3d-models/sukonbusss-hololive-8be58567b7764aed9e0401e360ab4140) by Armored Interactive (https://sketchfab.com/ychiang6) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
